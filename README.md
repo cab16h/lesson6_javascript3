@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 13, 2018
 
 ### Student Name:  
-(First and Last Name)
+Christian Burell
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we allow users to scroll through pictures showing more images.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://cab16h.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to access elements by id which show the figures I was using.
+2. I learned how to create nodes which allow me to use the buttons to any image I want to view
+3. I learned about appendChild node which does exists independently of the DOM tree. 
